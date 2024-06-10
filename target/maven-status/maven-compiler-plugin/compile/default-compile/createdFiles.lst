@@ -1,0 +1,5 @@
+com/climateconfort/JsonRecordWriter.class
+com/climateconfort/AvroDecodeMapper.class
+com/climateconfort/AvroDecodeDriver.class
+com/climateconfort/AvroDecodeReducer.class
+com/climateconfort/JsonOutputFormat.class
